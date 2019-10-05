@@ -82,6 +82,8 @@ class TodoList extends React.Component {
         
         const htmlId = nextId();
 
+        
+
         return (
           <React.Fragment key={ind}>
 
@@ -91,7 +93,7 @@ class TodoList extends React.Component {
           </div>
 
 
-          <div className="todo">{todo.text}</div><hr />
+          <div className="todo" style={todo.completed ? {textDecorationColor: 'black'} : {} }>{todo.text}</div><hr />
           </React.Fragment>
         );
 

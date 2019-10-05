@@ -60,15 +60,17 @@ h1 {
   background: white;
   padding: 20px;
   color: #777;
+  transition: text-decoration 1s;
+  text-decoration: solid line-through transparent;
 }
 
-.todo::after {
+/* .todo::after {
   display: inline-block;
   content: "";
   width: 10px;
   height: 10px;
   background: black;
-}
+} */
 
 hr {
     display: block;
