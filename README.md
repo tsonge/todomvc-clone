@@ -1,3 +1,8 @@
+This is a clone of http://todomvc.com/examples/react/#/ using React. It is not currently connected to any database (just uses a in-memory variable).
+
+
+----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
