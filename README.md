@@ -1,4 +1,6 @@
-This is a clone of http://todomvc.com/examples/react/#/ using React. It is not currently connected to any database (just uses a in-memory variable).
+This is a clone of http://todomvc.com/examples/react/ using React. It is not currently connected to any database (just uses a in-memory variable).
+
+Visit it at https://tsonge.github.io/todomvc-clone.
 
 
 ----
