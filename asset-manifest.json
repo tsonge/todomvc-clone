@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tsonge/todomvc-clone/static/css/main.564b568b.chunk.css",
+    "main.js": "/tsonge/todomvc-clone/static/js/main.2c18f367.chunk.js",
+    "main.js.map": "/tsonge/todomvc-clone/static/js/main.2c18f367.chunk.js.map",
+    "runtime-main.js": "/tsonge/todomvc-clone/static/js/runtime-main.77519e0c.js",
+    "runtime-main.js.map": "/tsonge/todomvc-clone/static/js/runtime-main.77519e0c.js.map",
+    "static/js/2.91ed0f0a.chunk.js": "/tsonge/todomvc-clone/static/js/2.91ed0f0a.chunk.js",
+    "static/js/2.91ed0f0a.chunk.js.map": "/tsonge/todomvc-clone/static/js/2.91ed0f0a.chunk.js.map",
+    "index.html": "/tsonge/todomvc-clone/index.html",
+    "precache-manifest.813eb2edd8b2a53f8883eb32422b3186.js": "/tsonge/todomvc-clone/precache-manifest.813eb2edd8b2a53f8883eb32422b3186.js",
+    "service-worker.js": "/tsonge/todomvc-clone/service-worker.js",
+    "static/css/main.564b568b.chunk.css.map": "/tsonge/todomvc-clone/static/css/main.564b568b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77519e0c.js",
+    "static/js/2.91ed0f0a.chunk.js",
+    "static/css/main.564b568b.chunk.css",
+    "static/js/main.2c18f367.chunk.js"
+  ]
+}
